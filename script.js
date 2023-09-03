@@ -51,6 +51,12 @@ const music_list = [
         artist : 'Anirudh',
         music : 'music/Kaththi_Theme_The_Sword_of_Destiny_Full_Audio_8uLTNdCQ3fg_140_00.mp3'
     },
+    {
+        img : 'https://www.google.com/search?q=kathi+movie&client=ms-android-xiaomi-rvo2b&sca_esv=562269560&sxsrf=AB5stBh3gv0I7qfFVSmBhhUmwh8l4dfaGA%3A1693711909082&ei=Jf7zZILIBLH3seMPuZ-p8AY&gs_ssp=eJzj4tLP1TeIz0mPNzU2YPTizk4sychUyM0vy0wFAF-IB-A&oq=kathi+movi&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgprYXRoaSBtb3ZpKgIIADIHEC4YigUYQzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIkRRQ0wdYow5wAHgCkAEAmAGvA6ABng-qAQkwLjEuMS4zLjG4AQHIAQD4AQHCAgQQABhHwgINEC4YgwEYsQMYigUYQ8ICBRAuGIAEwgIHEAAYigUYQ8ICCBAAGIoFGLEDwgINEC4YigUYsQMYgwEYQ8ICCxAAGIAEGLEDGIMB4gMEGAAgQYgGAZAGCA&sclient=mobile-gws-wiz-serp#imgrc=r1MfimsMoF16iM&imgdii=xSnnAfY3Z26ycM',
+        name : 'Engeyum-Kaadhal',
+        artist : 'Anirudh',
+        music : 'music/Engeyum-Kaadhal.mp3'
+    },
 ];
 
 loadTrack(track_index);
